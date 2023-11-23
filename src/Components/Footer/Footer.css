@@ -1,0 +1,65 @@
+/* .App {
+  text-align: center;
+} */
+
+.footer {
+  background-color: #000;
+  color: #8c8c8c;
+  padding: 40px 0;
+  font-size: 14px;
+}
+
+.footer-container {
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+
+.footer-column {
+  flex-basis: 25%;
+}
+
+.footer-column h4 {
+  font-size: 18px;
+  margin-bottom: 16px;
+  color: #fff;
+}
+
+.footer-column ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.footer-column li {
+  margin-bottom: 8px;
+  cursor: pointer;
+}
+
+.footer-divider {
+  height: 1px;
+  background-color: #8c8c8c;
+  margin-bottom: 20px;
+}
+
+.footer-text {
+  font-size: 14px;
+  color: #8c8c8c;
+}
+
+.footer-link {
+  color: #8c8c8c;
+  text-decoration: none;
+}
+
+.footer-link:hover {
+  color: #b3b3b3;
+}
+p {
+  font-size: 14px;
+}
